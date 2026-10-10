@@ -1,0 +1,79 @@
+Agent
+0:00
+Hello, good evening. May I speak with Akanksha?
+
+User
+0:05
+Yes. This is Akamsha. 
+
+Agent
+0:12
+Hello, Akanksha. My name is Marissa, and I'm calling from Home Credit. Is this a convenient time for a quick conversation?
+
+Agent
+0:30
+Akanksha, are you still there?
+
+User
+0:35
+Yes. I have a few minutes. 
+
+Agent
+0:42
+Thank you. I'm calling regarding a Loan Against Property offer of up to 75 lakh. I'd like to ask a few questions to check your preliminary eligibility. Could you tell me what type of property you would use for the loan — residential, commercial, or industrial?
+
+User
+1:01
+I have a residential house. 
+
+Agent
+1:07
+Is the property solely owned by you, or jointly owned with family members or partners?
+
+User
+1:14
+Am the sole owner. 
+
+Agent
+1:20
+Do you currently have the original property documents available for verification?
+
+User
+1:26
+Yes. I have the original documents. 
+
+Agent
+1:32
+Approximately how much would you like to borrow?
+
+User
+1:36
+I need around forty lakh. 
+
+Agent
+1:41
+Could you tell me whether you are salaried or self-employed, and whether your income is received through a bank account or in cash?
+
+User
+1:51
+I am salaried, and my salary comes into my bank account. 
+
+Agent
+1:58
+What would you estimate the current market value of the property to be?
+
+User
+2:04
+It's worth approximately eighty lakh. 
+
+Agent
+2:09
+How many years would you prefer to take to repay the loan?
+
+User
+2:14
+I would like to repay it over ten years. 
+
+Agent
+2:18
+Thank you for providing all the details. Based on the information you've shared, you meet the preliminary criteria for this offer. A senior loan expert will contact you shortly to take this forward and provide the exact interest rate and next steps. Thank you for your time. A senior loan expert will contact you shortly to discuss the exact interest rate and next steps. Have a great day.

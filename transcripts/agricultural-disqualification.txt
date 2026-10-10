@@ -1,0 +1,34 @@
+Agent
+0:00
+Hello, good evening. May I speak with Akanksha?
+
+User
+0:05
+Yes. You may speak. 
+
+Agent
+0:11
+Hello, Akanksha. My name is Marissa, and I'm calling from Home Credit. Is this a convenient time for a quick conversation?
+
+User
+0:20
+Yes. It is a convenient time 
+
+Agent
+0:27
+Thank you. I'm calling regarding a Loan Against Property offer of up to 75 lakh. I'd like to ask a few questions to check your preliminary eligibility. Could you tell me what type of property you would use for the loan — residential, commercial, or industrial?
+
+User
+0:48
+It's agricultural land. 
+
+Agent
+0:54
+Thank you for your time. Unfortunately, you do not meet the criteria for this specific offer at this time. 
+
+Tool called :
+end_call
+1:01
+Agent
+1:02
+Have a great day.
