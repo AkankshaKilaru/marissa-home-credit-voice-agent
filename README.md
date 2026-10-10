@@ -65,7 +65,6 @@ The following scenarios are used to test the agent's conversation logic:
 
 ## Deployment
 
-The AI voice agent is configured and published using Retell AI. The public Retell link can be added below if it is intended for public sharing.
 
 Published Agent: https://agent.retellai.com/orb/agent_649b9d8422801d9c60252d965e?token=2c67ea0573d4a6eedb3faea90a667a2d
 
